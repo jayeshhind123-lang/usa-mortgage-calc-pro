@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{font-family:Inter,system-ui,sans-serif;background:#f8fafc}
+input[type=range]{accent-color:#2563eb}
